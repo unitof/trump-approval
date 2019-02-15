@@ -28,4 +28,4 @@ Real example (note that `date` is being console.log'd but it is indeed a `Date`:
 
 You’ll probably get `ECONNRESET` errors if you try too much; RCP wasn’t born yesternanosecond.
 
-See also: [trump.report](//trump.report) ([`trump-dot-report`](//github.com/unitof/trump-dot-report))
+See also: [thetrump.report](//thetrump.report) ([`trump-dot-report`](//github.com/unitof/trump-dot-report))
