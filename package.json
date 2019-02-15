@@ -16,5 +16,9 @@
     "email": "j@cobford.com",
     "url": "jacobford.com)"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "object-has": "^1.0.2"
+  },
+  "devDependencies": {}
 }
