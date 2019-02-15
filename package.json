@@ -1,6 +1,6 @@
 {
   "name": "trump-approval",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Fetch Trump's latest approval rating from RCP. That’s all.",
   "main": "getit.js",
   "scripts": {
