@@ -2,9 +2,9 @@
 
 Fetches Donald Trump’s latest approval ratings, scraping them from RealClearPolitics.
 
-Thanks to RCP for the open-ish JSONP API. Or maybe just don’t say anything.
-
 And that’s all.
+
+Thanks to RCP for the open-ish JSONP API. Or maybe just don’t say anything.
 
 Returns as a Promise, which resolves to Object:
 
@@ -20,7 +20,7 @@ Real example (note that `date` is being console.log'd but it is indeed a `Date`:
 
 ```js
 {
-  date: 2019-02-13T06:00:00.000Z,
+  date: 2019-02-13T06:00:00.000Z, // trust me, it's a Date
   favorable: 0.408,
   unfavorable: 0.554
 }
