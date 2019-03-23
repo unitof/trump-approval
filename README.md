@@ -6,7 +6,7 @@ And that’s all.
 
 Thanks to RCP for the open-ish JSONP API. Or maybe just don’t say anything.
 
-Returns as a Promise, which resolves to Object:
+Returns a Promise, which resolves to Object:
 
 ```js
 {
